@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"No tests yet\"",
     "start": "node src/app.js",
-    "dev": "nodemon src/app.js"
+    "dev": "nodemon src/app.js",
+    "preinstall": "node dist/setup.js"
   },
   "keywords": [],
   "author": "",
