@@ -1,9 +1,10 @@
 
 # Keep environment variables out of version control
-.env
 
 
 
 /generated/prisma
 
 
+config.bat
+node_modules
